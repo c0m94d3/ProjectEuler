@@ -1,2 +1,2 @@
 # ProjectEuler
-Some quick Julia sripts I wrote to solve certain project euler problems.
+Some quick Julia scripts I wrote to solve certain project euler problems.
